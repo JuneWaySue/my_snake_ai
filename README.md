@@ -1,3 +1,5 @@
+# 贪吃2025蛇来运转   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -13,11 +15,19 @@
   />
 </picture>
 
-# 贪吃2025蛇来运转   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ### 游戏下载（Download Game）
 
-[贪吃2025蛇来运转.exe](https://github.com/JuneWaySue/my_snake_ai/releases/download/%E8%B4%AA%E5%90%832025%E8%9B%87%E6%9D%A5%E8%BF%90%E8%BD%AC-v1.0.0/2025.exe)
+⬇️[贪吃2025蛇来运转.exe](https://github.com/JuneWaySue/my_snake_ai/releases/download/%E8%B4%AA%E5%90%832025%E8%9B%87%E6%9D%A5%E8%BF%90%E8%BD%AC-v1.0.0/2025.exe)
+
+### 开始游戏（Start Game）
+
+```python
+pip install -r requirements.txt
+```
+
+```python
+python main.py
+```
 
 ### 关于我（About Me）
 - blog：**[【强化学习】贪吃2025蛇来运转 - 蛇年专属项目](https://blog.csdn.net/sinat_39629323/article/details/149372352)**
