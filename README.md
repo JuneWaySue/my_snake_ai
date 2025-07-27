@@ -36,7 +36,7 @@ pyinstaller build.spec
 ```
 
 ### 通关游戏（Win Game）
-![通关游戏](https://cdn.jsdelivr.net/gh/JuneWaySue/note-gen-image-sync@main/4b3141ca-db18-4790-8dc3-01c76f8cd054.gif)
+![通关游戏.gif](https://github.com/user-attachments/assets/9a8c701c-60cb-4959-af52-6dfc2330269f)
 
 ### 关于我（About Me）
 - csdn-blog：**[【强化学习】贪吃2025蛇来运转 - 蛇年专属项目](https://blog.csdn.net/sinat_39629323/article/details/149372352)**
